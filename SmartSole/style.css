@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(168, 217, 218);
+    width: 100vw;
+    height: auto; 
+    padding:1vw 0; 
+}
+p.logo{
+    text-align:left;
+}
+ul.list{
+    text-align: right;
+    
+}
+a.navbar{
+    color: rgb(180, 69, 69);
+}
+li{ 
+    display: inline;
+    margin: auto;
+    padding: 0 1.5vw; 
+    font-size: 3vh;
+    font-family:cursive
+}
+h1.Brand{
+    margin-top: 1vw;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    justify-content: center;
+}
+footer{
+    margin-top: 1vh;
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: auto;
+    height: auto;
+    text-transform: capitalize;
+    
+}
+h1.founders{
+    margin-top: 1vh;
+    color: rgb(255, 187, 0);
+    text-align: center;
+    font-variant: small-caps;
+}
+.container { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    grid-gap: 5vw;
+    margin-top: 1.5vh;
+    margin-bottom: 1.5vh;
+}
+
+h3.names{
+    color: rgb(2, 80, 169);
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+}
+.maam
+{
+    text-align: center;
+}
+.vishal {
+    text-align: center;
+}
