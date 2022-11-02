@@ -40,7 +40,7 @@ li {
 }
 
 main {
-    min-height: calc(100vh - 58px - 7vh);
+    min-height: calc(100vh - 80.7px - 7vh);
     display: flex;
     justify-content: center;
     align-items: center;
